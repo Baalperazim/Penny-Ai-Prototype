@@ -37,7 +37,9 @@
 📦 Penny/
 │
 ├── actual_dashboard.py # GUI (Tkinter-based)
+
 ├── sms_reader.py # Reads one SMS per button click
+
 ├── notifier.py # Voice + log alert handler
 ├── auth_manager.py # Handles user login/registration
 ├── penny.py # Transaction + budget core logic
