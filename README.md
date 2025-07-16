@@ -1,4 +1,4 @@
-# 💸 Penny AI – Budget Breach Detection System
+# Penny AI – Budget Breach Detection System
 
 **Penny AI** is a personal finance monitoring prototype built with Python. It reads and simulates SMS debit alerts, tracks monthly expenses, and triggers real-time budget breach notifications — all through a simple, intelligent GUI dashboard.
 
