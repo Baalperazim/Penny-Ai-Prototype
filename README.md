@@ -30,28 +30,6 @@
    - Logs alert in `alert_log.json`
 6. Setting a new budget resets all data: transactions + SMS history
 
----
-
-## 📁 Project Structure
-
-📦 Penny/
-│
-├── actual_dashboard.py    # GUI (Tkinter-based)
-├── sms_reader.py          # Reads one SMS per button click
-├── notifier.py            # Voice + log alert handler
-├── auth_manager.py        # Handles user login/registration
-├── penny.py               # Transaction + budget core logic
-│
-├── data/
-│ ├── mock_sms.json        # 20 diverse fake SMS messages
-│ ├── processed_sms_ids.json # Tracks which SMSes have been processed
-│ ├── budget.json          # User's monthly budget config
-│ ├── alert_log.json       # Stores budget breach alerts
-│
-├── transactions.json       # Full transaction history
-├── user_db.json            # Registered users
-├── README.md               # You're reading it 
-
 
 
 ---
