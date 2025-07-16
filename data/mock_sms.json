@@ -1,0 +1,123 @@
+[
+    {
+      "id": "txn001",
+      "message": "Your account has been debited with ₦2,500.00 at Shoprite Lagos.",
+      "date": "2025-07-10",
+      "source": "GTBank"
+    },
+    {
+      "id": "txn002",
+      "message": "POS debit of NGN 10,000.00 from Zenith Bank Card ending 1234",
+      "date": "2025-07-10",
+      "source": "Zenith Bank"
+    },
+    {
+      "id": "txn003",
+      "message": "Debit Alert: ₦3,800.00 paid to Jumia via Flutterwave",
+      "date": "2025-07-10",
+      "source": "Access Bank"
+    },
+    {
+      "id": "txn004",
+      "message": "You have been debited NGN 1,200.00 for airtime purchase.",
+      "date": "2025-07-10",
+      "source": "UBA"
+    },
+    {
+      "id": "txn005",
+      "message": "NGN 7,500.00 was debited from your account for fuel at Total Station.",
+      "date": "2025-07-10",
+      "source": "First Bank"
+    },
+    {
+      "id": "txn006",
+      "message": "Your account has been debited with ₦14,200.00 for online shopping at Konga.",
+      "date": "2025-07-10",
+      "source": "Wema Bank"
+    },
+    {
+      "id": "txn007",
+      "message": "A debit of NGN 900.00 occurred for data bundle recharge.",
+      "date": "2025-07-10",
+      "source": "9mobile Wallet"
+    },
+    {
+      "id": "txn008",
+      "message": "₦11,000.00 debited for hotel booking at Eko Hotels & Suites.",
+      "date": "2025-07-10",
+      "source": "Sterling Bank"
+    },
+    {
+      "id": "txn009",
+      "message": "NGN 6,000.00 debited for gym membership payment.",
+      "date": "2025-07-10",
+      "source": "Access Bank"
+    },
+    {
+      "id": "txn010",
+      "message": "POS DEBIT: ₦3,300.00 at Chicken Republic.",
+      "date": "2025-07-10",
+      "source": "UBA"
+    },
+    {
+      "id": "txn011",
+      "message": "Debit: NGN 15,500.00 transfer to JOHN DOE - 1234567890",
+      "date": "2025-07-10",
+      "source": "GTBank"
+    },
+    {
+      "id": "txn012",
+      "message": "NGN 2,200.00 debited for Bolt Ride fare.",
+      "date": "2025-07-10",
+      "source": "Opay"
+    },
+    {
+      "id": "txn013",
+      "message": "Your account has been debited ₦4,000.00 for electricity bill via Quickteller.",
+      "date": "2025-07-10",
+      "source": "Fidelity Bank"
+    },
+    {
+      "id": "txn014",
+      "message": "NGN 1,000.00 POS withdrawal - PalmPay POS.",
+      "date": "2025-07-10",
+      "source": "PalmPay"
+    },
+    {
+      "id": "txn015",
+      "message": "Debit alert: ₦22,000.00 sent to Netflix Premium.",
+      "date": "2025-07-10",
+      "source": "Zenith Bank"
+    },
+    {
+      "id": "txn016",
+      "message": "₦5,100.00 has been debited for groceries at Spar Supermarket.",
+      "date": "2025-07-10",
+      "source": "Union Bank"
+    },
+    {
+      "id": "txn017",
+      "message": "NGN 1,800.00 debit for DSTV Compact Sub.",
+      "date": "2025-07-10",
+      "source": "Stanbic IBTC"
+    },
+    {
+      "id": "txn018",
+      "message": "You spent ₦3,700.00 at Domino’s Pizza Yaba.",
+      "date": "2025-07-10",
+      "source": "FCMB"
+    },
+    {
+      "id": "txn019",
+      "message": "NGN 600.00 debit for transaction charge.",
+      "date": "2025-07-10",
+      "source": "Kuda Bank"
+    },
+    {
+      "id": "txn020",
+      "message": "Your account was debited ₦8,850.00 for pharmacy purchase.",
+      "date": "2025-07-10",
+      "source": "Heritage Bank"
+    }
+  ]
+  
